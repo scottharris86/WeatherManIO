@@ -21,7 +21,7 @@ class ViewController: UIViewController, UIGestureRecognizerDelegate, UIAlertView
 //    let refreshControlRecognizer = UISwipeGestureRecognizer()
     
     
-    private let apiKey = "63f4415f4e3b0d2283fd836c517b503d"
+    private let apiKey = ""
     
     let app = UIApplication.sharedApplication()
     let refreshControl = UIRefreshControl()
